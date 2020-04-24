@@ -1,0 +1,11 @@
+.eslintignore
+.eslintrc.js
+.babelrc
+.gitignore
+
+/.travis.yml
+
+/build
+/test
+/Gruntfile.js
+/src
