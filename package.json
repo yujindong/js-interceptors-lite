@@ -1,6 +1,6 @@
 {
   "name": "js-interceptor-lite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "js拦截器",
   "main": "index.js",
   "publishConfig": {
